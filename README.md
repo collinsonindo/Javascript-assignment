@@ -1,1 +1,1 @@
-# Javascript function
+# Javascript assignment
